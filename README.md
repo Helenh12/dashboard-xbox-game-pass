@@ -40,7 +40,15 @@ Base fornecida pelo curso (aba **Bases**, formatada como tabela `Tabela1`): **29
 | Coupon Value | Valor do cupom de desconto |
 | Total Value | Valor total da venda |
 
+## 🔁 Como reproduzir
 
+1. Abra o arquivo `dashboard_xbox.xlsx` no Excel.
+2. A aba **Bases** tem os dados; as tabelas dinâmicas ficam na aba **Calculos** (oculta) e alimentam o **Dashboard**.
+3. Para refazer do zero: cole a base em uma aba, transforme em tabela (Ctrl+T) e crie tabelas dinâmicas em Inserir > Tabela Dinâmica.
+4. Crie gráficos dinâmicos a partir das tabelas e cole no Dashboard.
+5. Insira a segmentação de dados de *Subscription Type* e conecte às tabelas (Conexões de Relatório).
+6. Aplique as cores: verde `#22C55E` e fundo cinza `#E8E6E9`.
+   
 ## ⚠️ Observações
 
 - Os dados de dezembro de 2024 vão só até 16/12, por isso a queda no último ponto do gráfico mensal.
